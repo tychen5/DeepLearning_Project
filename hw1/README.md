@@ -1,14 +1,31 @@
 # ADLxMLDS2017
 HW 1 - Sequence Labeling
 
-使用到的package:
+三種model的predict方法：
+
+./hw1_rnn.sh data/ rnn.csv
+
+./hw1_cnn.sh data/ cnn.csv
+
+./hw1_best.sh data/ best.csv
+
+
+使用到的python package:
+
 keras
+
 time
+
 pandas
+
 numpy
+
 sys
+
 sklearn.preprocessing
+
 threading
+
 
 關於best model共會用到五個model，hw1_best.sh會執行model_best_predict.py:
 
