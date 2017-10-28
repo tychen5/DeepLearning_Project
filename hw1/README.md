@@ -43,4 +43,4 @@ threading
 
 5.best_model5.h5 =>model_best_#5.py
 
-(對應的training code為箭頭後方的python檔案)
+(該model對應的training code為箭頭後方的python檔案)
