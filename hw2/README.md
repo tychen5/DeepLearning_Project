@@ -1,10 +1,30 @@
-./hw2_special.sh data/ output.txt
+./hw2_seq2seq.sh data/ test.txt peer.txt
 
 
-會從dropbox下載一個model下來
+會從dropbox下載model
 
-special mission要預測的檔案為testing_data.txt，
+modle架構寫於model51.py當中，不論是訓練或是預測皆需要
 
-special_test.py會吃進去來預測相對應的檔案，
 
-同時special_test.py也會需要引入model.py此檔案來進行預測
+
+library:
+
+python-3.6.3
+
+pandas-0.21
+
+numpy-1.13.3
+
+os
+
+time
+
+json
+
+sys
+
+tensorflow-1.1
+
+tensorflow-gpu-1.4
+
+
