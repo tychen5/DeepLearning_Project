@@ -28,3 +28,13 @@ tensorflow-1.1
 tensorflow-gpu-1.4
 
 
+======
+
+
+train code則會讀取test3.csv以及test3_test.csv
+
+需要創建models5-1的資料夾
+
+=====
+old bleu: 0.2878
+new bleu:0.6522
