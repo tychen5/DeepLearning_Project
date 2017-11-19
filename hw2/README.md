@@ -3,7 +3,7 @@
 
 會從dropbox下載model
 
-modle架構寫於model51.py當中，不論是訓練或是預測皆需要
+model架構寫於model51.py當中，不論是訓練或是預測皆需要
 
 
 
@@ -36,5 +36,7 @@ train code則會讀取test3.csv以及test3_test.csv
 需要創建models5-1的資料夾
 
 =====
+
 old bleu: 0.2878
+
 new bleu:0.6522
