@@ -5,6 +5,7 @@
 
 model架構寫於model51.py當中，不論是訓練或是預測皆需要
 
+此外也需要ixtoword, bias_init_vector檔案
 
 
 library:
