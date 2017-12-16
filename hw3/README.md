@@ -1,5 +1,5 @@
 # ADL HW3
-BONUS dir have the code of a3c, ddqn, dueiling implementation.
+BONUS dir has the code of a3c, ddqn, dueiling implementation.
 
 agent_dir has the code to test.
 
