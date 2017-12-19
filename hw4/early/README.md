@@ -1,3 +1,3 @@
 for special mission
 
-5 images of redgair, green eyes
+5 images of red hair, green eyes
