@@ -1,3 +1,3 @@
 run in windows10
 
-anaconda
+anaconda python3.5
