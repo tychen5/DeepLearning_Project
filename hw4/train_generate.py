@@ -7,11 +7,10 @@ from model import ConditionalGAN
 from preprocess import DataManager
 from scipy.misc import imsave
 
-#arg1 = sys.argv[1]
+# arg1 = sys.argv[1]
 
 tf.flags.DEFINE_integer("mode", 1, "0=train , 1=test")
 tf.flags.DEFINE_string("model_type", "dcgan", " dcgan /  wgan")
-tf.flags.DEFINE_string("test_text", "./testing_text.txt", "testing text path")
 
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
@@ -28,7 +27,7 @@ FLAGS.log = "./models"
 FLAGS.seed = 123  # random
 FLAGS.vocab = "./vocab"
 FLAGS.z_type = "normal"
-#FLAGS.test_text = "./testing_text.txt"  # 要改成使用者參數輸入 # str(arg1)
+FLAGS.test_text = "./testing_text.txt"  # 要改成使用者參數輸入 # str(arg1)
 FLAGS.img_dir = "data/faces"
 FLAGS.epochs = 600
 FLAGS.d_epochs = 1  # 5
