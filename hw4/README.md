@@ -1,1 +1,3 @@
-Special Mission 5 images of red hair, green eyes are in the early folder.
+run in windows10
+
+anaconda
