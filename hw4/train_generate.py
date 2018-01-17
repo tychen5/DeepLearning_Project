@@ -222,7 +222,7 @@ def test():
         config.gpu_options.allow_growth = True
         config.gpu_options.per_process_gpu_memory_fraction = 0.5
 
-        saver = tf.train.Saver(max_to_keep=300)
+        saver = tf.train.Saver()
 
         with tf.Session() as sess:
             saver.restore(sess, os.path.join(FLAGS.log, "-61"))  # model name
