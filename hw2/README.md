@@ -1,6 +1,9 @@
 # Video Captioning
+Describe the videos based on content.
 
-Implement one seq2seq model and attention mechanism.
+This task is to generate the description for the given video.
+
+**Implement one seq2seq model and attention mechanism.**
 
 **Input a video and output captions of the video**
 
