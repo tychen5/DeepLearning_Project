@@ -1,4 +1,4 @@
-# Sequence Labeling
+# TIMIT Sequence Labeling
 Speech is composed of phomenes. 
 
 This task is to predict the associated phone sequences given the acoustic signal.
@@ -7,7 +7,9 @@ This task is to predict the associated phone sequences given the acoustic signal
 
 **Input a frame-level speech sequence and output a phone sequence.**
 
-***
+#### Dataset:
+
+TIMIT dataset. Providing features include .wav, mfcc, fbank, posteriorgram.
 
 ## Predict script example
 
