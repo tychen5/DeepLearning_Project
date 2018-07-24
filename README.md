@@ -1,6 +1,6 @@
 # Deep Learning Project Implementation
 
-__1. **Sequence Labeling**:__ Speech is composed of phomenes. This project is to predict the associated phone sequences given the acoustic signal.
+1. __**Sequence Labeling**:__ Speech is composed of phomenes. This project is to predict the associated phone sequences given the acoustic signal.
 
 __2. **Video Captioning**:__ Describe the videos based on content. This project is to generate the description for the given video.
 
