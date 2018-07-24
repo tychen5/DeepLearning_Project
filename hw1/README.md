@@ -15,11 +15,11 @@ TIMIT dataset. Providing features include .wav, mfcc, fbank, posteriorgram.
 
 三種model的predict方法：
 
-./hw1_rnn.sh data/ rnn.csv
+`./hw1_rnn.sh data/ rnn.csv`
 
-./hw1_cnn.sh data/ cnn.csv
+`./hw1_cnn.sh data/ cnn.csv`
 
-./hw1_best.sh data/ best.csv
+`./hw1_best.sh data/ best.csv`
 
 
 #### 使用到的python package:
