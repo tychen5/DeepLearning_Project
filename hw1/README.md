@@ -1,4 +1,4 @@
-# TIMIT Sequence Labeling
+# Sequence Labeling
 Speech is composed of phomenes. 
 
 This task is to predict the associated phone sequences given the acoustic signal.
