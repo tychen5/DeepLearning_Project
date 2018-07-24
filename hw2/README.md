@@ -39,6 +39,7 @@ model架構寫於model51.py當中，不論是訓練或是預測皆需要
 
 
 *train code則會讀取test3.csv以及test3_test.csv*
+
 *需要創建models5-1的資料夾*
 
 #### Result:
