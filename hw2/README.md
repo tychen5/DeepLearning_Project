@@ -15,8 +15,8 @@ MSVD dataset
 average bleu@1 score 
 
 
-## Predict Usage
-./hw2_seq2seq.sh data/ test.txt peer.txt
+## Prediction Usage
+`bash ./hw2_seq2seq.sh data/ test.txt peer.txt`
 
 
 會從dropbox下載model
